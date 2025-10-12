@@ -1,7 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Yasith+Banula;Software+Engineering+Student;QA+Enthusiast+%7C+Full-Stack+Learner;Passionate+about+Clean+Code+and+Automation!" alt="Typing SVG" />
-</h1>
+![Hi I'm Yasith](https://capsule-render.vercel.app/api?type=venom&height=200&text=Hi,%20I'm%20Yasith%20Banula&fontSize=60&color=0:5a3cc0,100:8e6de8&stroke=8e6de8&fontColor=ffffff&animation=fadeIn)
 
 <!-- Short Intro -->
 <h3 align="center">
