@@ -67,6 +67,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasithb&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yasithb/yasithb/output/github-snake.svg" alt="Snake animation" />
+</p>
+
 ---
 
 <!-- Footer Animation -->

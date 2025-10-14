@@ -1,0 +1,15 @@
+# DISABLED: Legacy snake workflow superseded by .github/workflows/snake.yml
+# Keeping for reference, but it will not run.
+# To re-enable, remove the next line and adjust configuration as needed.
+name: DISABLED - Legacy Snake Workflow
+on:
+  workflow_dispatch:
+  push:
+    branches: [ never-run ]
+  schedule:
+    - cron: "0 0 1 1 *" # effectively disabled
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Legacy workflow disabled in favor of .github/workflows/snake.yml"
